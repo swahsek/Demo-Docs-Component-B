@@ -1,1 +1,1 @@
-* xref:index.adoc[Welcome]
+* xref:hello.adoc[Hello]

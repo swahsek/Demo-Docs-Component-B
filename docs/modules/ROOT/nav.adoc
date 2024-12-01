@@ -1,1 +1,1 @@
-* xref:welcome.adoc[]
+* xref:welcome.adoc[Welcome]

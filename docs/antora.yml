@@ -1,7 +1,6 @@
 name: component-b
 title: Component B
 version: 1.0
-prerelease: -beta.1
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
